@@ -6,6 +6,8 @@
 .ipynb_checkpoints
 checkpoint
 logs/*
+env/*
+env/
 tf_logs/*
 images/**/*.png
 images/**/*.dot
